@@ -1,6 +1,6 @@
 ## Olá! eu sou a Julia Santos
 
-- 🔭 Atualmente faço estágio na área de tecnologia, mas especificamente na área de manutençao de equipamentos.
+- 🔭 Atualmente, faço estágio na área de tecnologia, mais especificamente na área de manutenção de equipamentos.
 - 🌱 Estou estudando HTML, CSS e JavaScript
 - 😄 Pronouns: ela/dela
 
