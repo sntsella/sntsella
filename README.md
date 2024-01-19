@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente faço estágio na área de tecnologia, mas especificamente na área de manutençao de equipamentos.
 - 🌱 Estou estudando HTML, CSS e JavaScript
-- 📫 Contate-me em juliasnts44@gmail.com
 - 😄 Pronouns: ela/dela
 
 <div>
