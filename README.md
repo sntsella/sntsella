@@ -16,7 +16,7 @@
   </p>
 </div>
 
-<h2 align="center" style="color: #f8efd4;"> 🔗 sistemas operacionais que eu uso </h2>
+<h2 align="center" style="color: #f8efd4;"> 🔗 Sistemas operacionais que eu uso </h2>
 <p align="center">
     <a href="[https://skillicons.dev](https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
       <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
