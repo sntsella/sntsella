@@ -4,9 +4,9 @@
 
 - 🔭 Atualmente, faço estágio na área de tecnologia, mais especificamente na área de manutenção de equipamentos.
 - 🌱 Estou estudando HTML, CSS e JavaScript.
-- 🎓 Graduando Sistema de Informação na Universidade Geraldo Di Biase.
+- 🎓 Graduando Sistemas de Informação na Universidade Geraldo Di Biase.
 
-<h2 align="center"> Linguagens 🖇 Frameworks 🖇 Ferramentas </h2>
+<h2 align="center" style="color: #f8efd4;"> Linguagens 🔗 Frameworks 🔗 Ferramentas </h2>
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Ella-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
