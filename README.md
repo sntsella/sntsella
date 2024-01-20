@@ -9,10 +9,11 @@
 <h2 align="center" style="color: #f8efd4;"> Linguagens 🔗 Frameworks 🔗 Ferramentas </h2>
 
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Ella-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-  <img align="center" alt="Ella-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
-  <img align="center" alt="Ella-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ella-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=js,html,css,linux,vscode&perline=14" />
+    </a>
+  </p>
 </div>
 
 ##
@@ -28,6 +29,6 @@
 
 <div style="display: flex; align-items: center;">
   <a href="https://github.com/sntsella">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sntsella&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">    
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sntsella&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&layout=compact&langs_count=16"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=sntsella&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">    
+  <img align="right" height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sntsella&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&layout=compact&langs_count=16"/>
 </div>
