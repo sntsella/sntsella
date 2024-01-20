@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=+Lora+Display+&pause=1000&size=30&center=true&vCenter=true&color=f8efd4&random=false&width=435&lines=Hey+%F0%9F%91%8B%F0%9F%8F%BC;Me+chamo+Julia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Lora&pause=1000&size=30&center=true&vCenter=true&color=f8efd4&random=false&width=435&lines=Hey+%F0%9F%91%8B%F0%9F%8F%BC;Me+chamo+Julia" alt="Typing SVG" />
 </h1>
 
 - 🔭 Atualmente, faço estágio na área de tecnologia, mais especificamente na área de manutenção de equipamentos.
