@@ -27,6 +27,6 @@
 
 <div align="center">
   <a href="https://github.com/sntsella">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sntsella&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sntsella&layout=compact&langs_count=16&theme=synthwave"/>
+  <img align='right' src="https://github-readme-stats.vercel.app/api?username=sntsella&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sntsella&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&layout=compact&langs_count=16"/>
 </div>
