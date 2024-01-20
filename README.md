@@ -19,8 +19,9 @@
 <h2 align="center" style="color: #f8efd4;"> 🔗 sistemas operacionais que eu uso </h2>
 <p align="center">
     <a href="[https://skillicons.dev](https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-      <img  width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-      <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
+      <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+      <img width="50" height="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+      <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
     </a>
   </p>
 
