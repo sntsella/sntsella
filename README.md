@@ -11,7 +11,7 @@
 <div style="display: inline_block" align="center"><br>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,html,css,vscode&perline=14" />
+      <img src="https://skillicons.dev/icons?i=js,html,css,vscode,git&perline=14" />
     </a>
   </p>
 </div>
@@ -19,8 +19,6 @@
 <h2 align="center" style="color: #DAC29F;"> 🔗 Sistemas operacionais que eu uso </h2>
 <p align="center">
     <a href="[https://skillicons.dev](https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-      <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-      <img width="50" height="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
       <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
     </a>
   </p>
@@ -33,6 +31,7 @@
    <a href="https://discord.gg/K6AGw2Pjem" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
    <a href ="mailto:contato@juliasnts44@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/julia-gabriella-262154261" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://dev.to/sntsella" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a> 
 </div>
 
 ##
